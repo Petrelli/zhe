@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhe Zhang"
   avatar           : "images/zhe.jpg"
-  bio              : "Currently, I am an Assistant Professor at Nanjing University of Posts and Telecommunications (NJUPT). Before I jonied NJUPT, I was a research engineer in Huawei Ottawa R&D Center. My research interests include in-network caching, ICN, multimedia communications, AI-empowered networks."
+  bio              : "Currently, I am an Assistant Professor at Nanjing University of Posts and Telecommunications (NJUPT). Before I joined NJUPT, I was a research engineer in Huawei Ottawa R&D Center. My research interests include in-network caching, ICN, multimedia communications, AI-empowered networks."
   location         : "Nanjing, Jiangsu, China"
   employer         : "Nanjing University of Posts and Telecommunications"
  # pubmed           : 
@@ -177,7 +177,7 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:teaching/
   publications:
     output: true
     permalink: /:collection/:path/
