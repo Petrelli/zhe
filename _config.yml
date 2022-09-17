@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Zhe Zhang"
-  avatar           : "zhe.jpg"
+  avatar           : "zhe.png"
   bio              : "Ph.D"
   location         : "Nanjing, Jiangsu, China"
-  employer         : "Nanjing University of Posts and Telecommunications"
+  employer         : "NJUPT"
  # pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oSafhfYAAAAJ&hl=zh-CN&oi=ao"
   email            : "zhezhang@njupt.edu.cn"
