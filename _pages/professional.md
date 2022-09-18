@@ -1,16 +1,31 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
+layout: page
+title: "Professional Service"
+permalink: /professional/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Reviewer for Journal Manuscript Submissions: 
+======
+* IEEE Transactions on Industrial Informatics
+* IEEE Transactions on Intelligent Transportation Systems
+* IEEE Transactions on Network and Service Management 
+* IEEE Internet of Things Journal
+* IEEE Communications Letters
+* EURASIP Journal of Wireless Communications and Networking
+* ACM Transactions on Multimedia Computing, Communications, and Applications 
+* Elsevier Computer Communications
 
-{% include base_path %}
+Reviewer for Conference Manuscript Submissions: 
+======
+* IEEE ICC
+* IEEE GLOBECOM
+* IEEE WCNC
+* IEEE CCNC
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+TPC Member:
+======
+* IEEE ICC 2020, 2022, 2023
+* IEEE GLOBECOM 2020, 2021, 2022, 2023
+* IEEE WCNC 2021, 2022
+* IEEE CCNC 2021

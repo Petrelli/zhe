@@ -4,9 +4,14 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-TEST:
-{% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Mobile Communication System
+======
+* 2022 Spring
+* Undergraduate
+
+
+Computer Networks
+======
+* 2022 Fall
+* Undergraduate

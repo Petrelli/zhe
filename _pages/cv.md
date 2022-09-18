@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+
 I received my Ph.D degree from the Department of Systems and Computer Engineering, Carleton University on Sep 19, 2019. Many thanks to my supervisor Chung-Horng Lung, co-supervisor Marc St-Hilaire and Ioannis Lambadaris. 
 
 Work experience

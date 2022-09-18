@@ -177,7 +177,7 @@ kramdown:
 collections:
   news:
     output: true
-    permalink: /:collection/news/
+    permalink: /:collection/news/news.md
 #  publications:
 #    output: true
 #    permalink: /:collection/publications/
