@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "Professional Service"
 permalink: /professional/
 author_profile: true
