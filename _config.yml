@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhe Zhang"
   avatar           : "zhe.png"
-  bio              : "Ph.D"
+  bio              : "Assistant Professor, Ph.D"
   location         : "Nanjing, Jiangsu, China"
   employer         : "NJUPT"
  # pubmed           : 
@@ -174,10 +174,10 @@ kramdown:
 
 
 # Collections
-#collections:
-#  teaching:
-#    output: true
-#    permalink: /:collection/teaching/
+collections:
+  news:
+    output: true
+    permalink: /:collection/news/
 #  publications:
 #    output: true
 #    permalink: /:collection/publications/
