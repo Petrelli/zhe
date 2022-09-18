@@ -2,7 +2,7 @@
 title: "Content Diversity-based Intelligent in-network Caching System for ICN Networks"
 #excerpt: "Short description of portfolio item number 1<br/>"
 except:"Natural Science Foundation of Jiangsu Province, China<br/>"
-collection: portfolio
+collection: projects
 ---
 
 

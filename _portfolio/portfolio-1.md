@@ -8,7 +8,7 @@ collection: portfolio
 
 ---
 title: "Content Diversity-based Intelligent in-network Caching System for ICN Networks"
-#excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+#excerpt: "Short description of portfolio item number 1<br/>"
 except:"Natural Science Foundation of Jiangsu Province, China<br/>"
 collection: portfolio
 ---
@@ -16,7 +16,7 @@ collection: portfolio
 ---
 title: "Research on key technologies of Adaptive Edge Caching for Multi-modal
 Services in Dynamic Network Environments"
-#excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+#excerpt: "Short description of portfolio item number 1<br/>"
 except:"National Natural Science Foundation of China (NSFC)<br/>"
 collection: portfolio
 ---
