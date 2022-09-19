@@ -28,7 +28,7 @@ Work experience
   * Ottawa, ON, Canada
 
 * 2015-2019: Teaching Assistant
-  * Github University
+  * Carleton University
   * Courses included: SYSC 4602: Computer Communications, SYSC 4502: Communications Software, SYSC 2100: Algorithms and Data Structure, SYSC 4701: Communications Systems Lab
   * Ottawa, ON, Canada
 
