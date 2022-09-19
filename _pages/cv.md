@@ -22,6 +22,10 @@ Work experience
   * Huawei Ottawa Research and Development Center
   * Ottawa, ON, Canada
 
+* 2018.06-2018.11: NSERC Inter
+  * Ericsson Canada
+  * Ottawa, ON, Canada
+
 * 2015-2019: Research Assistant
   * Carleton University
   * Supervisor: Chung-Horng Lung, Marc St-Hilaire, and Ioannis Lambadaris
@@ -36,5 +40,7 @@ Work experience
   * China Mobile
   * Changzhi, Shanxi, China
 
-  
+* 2012.07-2012.12: System Engineer Intern
+  * Sina.com
+  * Beijing, China  
 
