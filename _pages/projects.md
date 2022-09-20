@@ -30,5 +30,5 @@ Ericsson Indoor Planner
 ======
  * Project of Ericsson Canada
  * 2018
- * More infor can be found [here](https://www.ericsson.com/en/portfolio/networks/ericsson-radio-system/radio/small-cells/indoor/ericsson-indoor-planner)
+ * More info can be found [here](https://www.ericsson.com/en/portfolio/networks/ericsson-radio-system/radio/small-cells/indoor/ericsson-indoor-planner)
 
