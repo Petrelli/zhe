@@ -24,7 +24,7 @@ Content Diversity-based Intelligent in-network Caching System for ICN Networks
 
 
 
-Industray Projects
+Industry Projects
 ======
 Demand-aware Reconfigure Datacenter Networks
  * Huawei Ottawa R&D Center
