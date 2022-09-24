@@ -27,11 +27,11 @@ Content Diversity-based Intelligent in-network Caching System for ICN Networks
 Industray Projects
 ======
 Demand-aware Reconfigure Datacenter Networks
- * Research Project of Huawei Ottawa R&D Center
+ * Huawei Ottawa R&D Center
  * 2020
 
 Ericsson Indoor Planner
- * Project of Ericsson Canada
+ * Ericsson Canada
  * 2018
  * More info can be found [here](https://www.ericsson.com/en/portfolio/networks/ericsson-radio-system/radio/small-cells/indoor/ericsson-indoor-planner)
 
