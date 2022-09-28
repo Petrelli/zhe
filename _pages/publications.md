@@ -7,7 +7,7 @@ author_profile: true
 
 Journal Papers
 ======
-Zhe Zhang, Xin Wei, Chung-Horng Lung, Yu Zhao, "iCache: An Intelligent Caching Scheme for Dynamic Network Environments in ICN-based IoT Networks", IEEE Internet of Things Journal, Accepted, 2022.
+Zhe Zhang, Xin Wei, Chung-Horng Lung, Yu Zhao, "iCache: An Intelligent Caching Scheme for Dynamic Network Environments in ICN-based IoT Networks", IEEE Internet of Things Journal, In press, 2022.
 
 Mingzi Chen, Xin Wei, Peizhong Xie, Zhe Zhang, "QoE oriented intelligent online learning evaluation technology in B5G scenario", Elsevier Digital Communications and Networks, In press, 2022.
 
