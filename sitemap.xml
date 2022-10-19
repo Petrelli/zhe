@@ -1,117 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
->
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
- <loc>http://browsehappy.com/</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
+  <loc>https://petrelli.github.io/zhe/</loc>
+  <lastmod>2022-10-18T16:41:08+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
- <loc>https://petrelli.github.io/zhe/</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
+  <loc>https://petrelli.github.io/zhe/publications/</loc>
+  <lastmod>2022-10-18T16:41:08+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
- <loc>https://petrelli.github.io/zhe/publications/</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
+  <loc>https://petrelli.github.io/zhe/teaching/</loc>
+  <lastmod>2022-10-18T16:41:08+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
- <loc>https://petrelli.github.io/zhe/teaching/</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
+  <loc>https://petrelli.github.io/zhe/projects/</loc>
+  <lastmod>2022-10-18T16:41:08+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
- <loc>https://petrelli.github.io/zhe/projects/</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
+  <loc>https://petrelli.github.io/zhe/professional/</loc>
+  <lastmod>2022-10-18T16:41:08+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
- <loc>https://petrelli.github.io/zhe/professional/</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
+  <loc>https://petrelli.github.io/zhe/cv/</loc>
+  <lastmod>2022-10-18T16:41:08+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
- <loc>https://petrelli.github.io/zhe/cv/</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
+  <loc>https://petrelli.github.io/zhe/album/</loc>
+  <lastmod>2022-10-18T16:41:08+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
-<url>
- <loc>https://petrelli.github.io/zhe/album/</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://www.researchgate.net/profile/Zhe-Zhang-166</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://github.com/Petrelli</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://scholar.google.ca/citations?user=oSafhfYAAAAJ&amp;hl=en&amp;oi=ao</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://2022.gpc-conf.org/workshops.html</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://petrelli.github.io/zhe/zhezhang@njupt.edu.cn</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://github.com/Petrelli</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://petrelli.github.io/zhe/feed.xml</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://jekyllrb.com</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://github.com/academicpages/academicpages.github.io</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>https://mademistakes.com/work/minimal-mistakes-jekyll-theme/</loc>
- <priority>0.5</priority>
- <lastmod>2022-10-19</lastmod>
- <changefreq>weekly</changefreq>
-</url>
+
+
 </urlset>
