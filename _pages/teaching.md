@@ -21,8 +21,7 @@ Some Useful Links
 ======
 How to write perfect papers?
 Check the following links (talks from Prof. Baochun Li)
-[Here](https://iqua.ece.toronto.edu/papers/writing-perfect-papers-2021.pdf) is the slides link
-[Here](https://www.youtube.com/watch?v=FxGo5hn8dTw) is the video link
+* [Here](https://iqua.ece.toronto.edu/papers/writing-perfect-papers-2021.pdf) is the slides link.
+* [Here](https://www.youtube.com/watch?v=FxGo5hn8dTw) is the video link.
 
-[A link for self studying operating system.](https://oscourse.org)
-Also created by Prof. Baochun Li
+[A link for self studying operating system.](https://oscourse.org) Also created by Prof. Baochun Li.
