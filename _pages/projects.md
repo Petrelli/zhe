@@ -14,7 +14,7 @@ Research on key technologies of Adaptive Edge Caching for Multi-modal Services i
  * 2023-2026
 
 
-Intelligent in-network Caching for Multi-model Contents
+Intelligent in-network Caching for Multi-modal Contents
  * Natural Science Foundation of Jiangsu Province, China
  * 2023-2026
 
