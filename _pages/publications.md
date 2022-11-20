@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Journal Papers
+Selected Journal Papers
 ======
 Zhe Zhang, Xin Wei, Chung-Horng Lung, Yu Zhao, "iCache: An Intelligent Caching Scheme for Dynamic Network Environments in ICN-based IoT Networks", IEEE Internet of Things Journal, In press, 2022.
 
@@ -19,7 +19,7 @@ Zhe Zhang, Chung-Horng Lung, Marc St-Hilaire, Ioannis Lambadaris, “An SDN-base
 
 Zhe Zhang, Chung-Horng Lung, Ioannis Lambadaris, Marc St-Hilaire, “When 5G Meets ICN: An ICN-based caching approach for mobile video in 5G networks”, Elsevier Computer Communications, vol. 118, pp. 81-92, March 2018.
 
-Conference Papers
+Selected Conference Papers
 ======
 Zhe Zhang, Chung-Horng Lung, Marc St-Hilaire, Ioannis Lambadaris, “Smart Caching: Empower the Video Delivery for 5G-ICN Networks”, Proceedings of the 2019 IEEE International Conference on Communications (ICC 2019), Shanghai, China, May 2019.
 
