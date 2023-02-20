@@ -17,6 +17,12 @@ Computer Networks
 * Undergraduate
 * [A collection of notes and references for self-studying computer science.](https://notes.eddyerburgh.me)
 
+Switching Technology in Communication Networks
+======
+* 2023 Spring
+* Undergraduate
+
+
 Some Useful Links
 ======
 How to write perfect papers? Check the following links (talks from Prof. Baochun Li):
