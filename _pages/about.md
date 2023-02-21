@@ -14,7 +14,7 @@ Currently, I am an Assistant Professor at Nanjing University of Posts and Teleco
 
 What's new
 ======
-Our workshop on Edge Intelligence for Energy Efficient Content Delivery (EIEECD) will be held on Dec 2-4, 2022, in Chengdu China. More info can be found [here](http://2022.gpc-conf.org/workshops.html)
+Our workshop on Edge Intelligence for Energy Efficient Content Delivery (EIEECD) was held on Dec 2-4, 2022, in Chengdu China. More info can be found [here](http://2022.gpc-conf.org/workshops.html)
 
 For Prospective Students
 ======
