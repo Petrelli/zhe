@@ -18,5 +18,5 @@ Our workshop on Edge Intelligence for Energy Efficient Content Delivery (EIEECD)
 
 For Prospective Students
 ======
-I am always looking for self-motivated graduate students, if you are interested in what I am doing, please sned [me](zhezhang@njupt.edu.cn) your CV.
+I am always looking for self-motivated graduate students, if you are interested in what I am doing, please send [me](zhezhang@njupt.edu.cn) your CV.
 
