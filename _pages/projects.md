@@ -8,7 +8,6 @@ permalink: /projects/
 
 
 ## Grants
-======
 Research on key technologies of Adaptive Edge Caching for Multi-modal Services in Dynamic Network Environments
  * National Natural Science Foundation of China (NSFC)
  * 2023-2025
@@ -25,7 +24,6 @@ Content Diversity-based Intelligent in-network Caching System for ICN Networks
 
 
 ## Industry Projects
-======
 Demand-aware Reconfigure Datacenter Networks
  * Huawei Ottawa R&D Center
  * 2020
