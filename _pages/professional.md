@@ -12,8 +12,8 @@ Reviewer for Journal Manuscript Submissions:
 * IEEE Transactions on Network and Service Management 
 * IEEE Internet of Things Journal
 * IEEE Communications Letters
-* EURASIP Journal of Wireless Communications and Networking
-* ACM Transactions on Multimedia Computing, Communications, and Applications 
+* ACM Transactions on Multimedia Computing, Communications, and Applications
+* Elsevier Computer Networks
 * Elsevier Computer Communications
 
 Reviewer for Conference Manuscript Submissions: 
