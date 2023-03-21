@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Zhe Zhang - Homepage - NJUPT"
+title                    : "Zhe Zhang - NJUPT"
 title_separator          : "-"
 name                     : &name "Zhe Zhang"
 description              : &description "Assistant Professor"
