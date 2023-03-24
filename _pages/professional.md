@@ -25,7 +25,7 @@ Reviewer for Conference Manuscript Submissions:
 
 TPC Member:
 ======
-* IEEE ICC 2020, 2022, 2023
-* IEEE GLOBECOM 2020, 2021, 2022, 2023
-* IEEE WCNC 2021, 2022
+* IEEE ICC 2020-present
+* IEEE GLOBECOM 2020-present
+* IEEE WCNC 2021-present
 * IEEE CCNC 2021
