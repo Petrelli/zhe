@@ -14,7 +14,7 @@ Currently, I am an Assistant Professor at Nanjing University of Posts and Teleco
 
 What's new
 ======
-An industry project (WeChat mini program) is seeking students who possess strong skills in backend or frontend programming. This is a great opportunity to gain hands-on experience in programming. If you are also interested in pursuing a master's degree, please send an email indicating your interest.
+An industry project (WeChat mini program) is seeking students who possess strong skills in backend or frontend programming. This is a great opportunity to gain hands-on experience in programming. If you are also interested in pursuing a master's degree with me, please send me an email indicating your interest.
 
 
 For Prospective Students
