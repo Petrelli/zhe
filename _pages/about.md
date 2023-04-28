@@ -15,7 +15,7 @@ Currently, I am an Assistant Professor at Nanjing University of Posts and Teleco
 What's new
 ======
 An industry project is seeking students who possess strong skills in backend programming. This is a great opportunity to gain hands-on experience in programming. If you are interested in pursuing a master's degree alongside this opportunity, please send an email indicating your interest.
-# Our workshop on Edge Intelligence for Energy Efficient Content Delivery (EIEECD) was held on Dec 2-4, 2022, in Chengdu China. More info can be found [here](http://2022.gpc-conf.org/workshops.html)
+
 
 For Prospective Students
 ======
