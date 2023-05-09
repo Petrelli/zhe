@@ -184,9 +184,9 @@ collections:
 #  portfolio:
 #    output: true
 #    permalink: /:collection/projects/
-#  talks:
-#    output: true
-#    permalink: /:collection/talks/
+  #albums:
+  #  output: true
+  #  permalink: /album/:title/
 
 # Defaults
 defaults:
