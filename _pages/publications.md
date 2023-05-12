@@ -15,7 +15,7 @@ Mingzi Chen, Xin Wei, Peizhong Xie, Zhe Zhang, "QoE oriented intelligent online 
 
 Xiang Liu, Xiaoying Tan, Yuchun Guo, Yishuai Chen, Zhe Zhang, "CSTRM: Contrastive Self-Supervised Trajectory Representation Model for trajectory similarity computation", Elsevier Computer Communications, January, 2022.
 
-Zhe Zhang, Chung-Horng Lung, Marc St-Hilaire, Ioannis Lambadaris, "Smart Proactive Caching: Empower the Video Delivery for Autonomous Vehicles in ICN-5G Networks'', IEEE Transactions on Vehicular Technology, vol. 69, no. 7, pp. 7955-7965, July 2020.
+Zhe Zhang, Chung-Horng Lung, Marc St-Hilaire, Ioannis Lambadaris, "Smart Proactive Caching: Empower the Video Delivery for Autonomous Vehicles in ICN-5G Networks”, IEEE Transactions on Vehicular Technology, vol. 69, no. 7, pp. 7955-7965, July 2020.
 
 Zhe Zhang, Chung-Horng Lung, Marc St-Hilaire, Ioannis Lambadaris, “An SDN-based Caching Decision Policy for Video Caching in Information-centric Networking”, IEEE Transactions on Multimedia, vol. 22, no. 4, pp. 1069-1083, April 2020. 
 
@@ -29,4 +29,4 @@ Zhe Zhang, Chung-Horng Lung, Ioannis Lambadaris, Marc St-Hilaire, “IoT Data Li
 
 Zhe Zhang, Chung-Horng Lung, Ioannis Lambadaris, Marc St-Hilaire, Sankarshan Nagaraja Rao, “Router Position-based Cooperative Caching for Video-on-Demand in Information-Centric Networking”, Proceedings of the 2017 conference on 41st Annual IEEE Computer Software and Applications Conference (COMPSAC), Torino, Italy, July 2017.
 
-Biao Liang, Yuchun Guo, Yishuai Chen and Zhe Zhang, "An improved cache strategy based on WSP cooperation," 2015 IEEE 9th International Conference on Anti-counterfeiting, Security, and Identification (ASID), Xiamen, 2015, pp. 10-14.
+Biao Liang, Yuchun Guo, Yishuai Chen and Zhe Zhang, "An improved cache strategy based on WSP cooperation", 2015 IEEE 9th International Conference on Anti-counterfeiting, Security, and Identification (ASID), Xiamen, 2015, pp. 10-14.
