@@ -19,5 +19,5 @@ An industry project (a WeChat mini program) is seeking students who possess stro
 
 For Prospective Students
 ======
-I am always looking for self-motivated graduate students, if you are interested in what I am doing, please send [<a href="mailto:zhezhang@njupt.edu.cn">me</a> your CV.
+I am always looking for self-motivated graduate students, if you are interested in what I am doing, please send <a href="mailto:zhezhang@njupt.edu.cn">me</a> your CV.
 
