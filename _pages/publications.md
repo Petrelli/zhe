@@ -7,7 +7,7 @@ author_profile: true
 
 Selected Journal Papers
 ======
-Zhe Zhang, Chung-Horng Lung, Xin Wei, Mingkai Chen, Subhajit Chatterjee and Zhicai Zhang, "In-network Caching for ICN-based IoT (ICN-IoT): A Comprehensive Survey", IEEE Internet of Things Journal, early access, 2023.
+Zhe Zhang, Chung-Horng Lung, Xin Wei, Mingkai Chen, Subhajit Chatterjee and Zhicai Zhang, "In-network Caching for ICN-based IoT (ICN-IoT): A Comprehensive Survey", IEEE Internet of Things Journal, vol. 10, no. 16, pp. 14595-14620, 15 Aug.15, 2023.
 
 Zhe Zhang, Xin Wei, Chung-Horng Lung, Yu Zhao, "iCache: An Intelligent Caching Scheme for Dynamic Network Environments in ICN-based IoT Networks", IEEE Internet of Things Journal, vol. 10, no. 2, pp. 1787-1799, January, 2023.
 
