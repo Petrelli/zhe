@@ -19,5 +19,16 @@ An industry project (a WeChat mini program) is seeking students who possess stro
 
 For Prospective Students
 ======
-I am always looking for self-motivated graduate students, if you are interested in what I am doing, please send <a href="mailto:zhezhang@njupt.edu.cn">me</a> your CV.
+I am always looking for self-motivated graduate students, if you are interested in what I am doing, please send <a href="mailto:zhezhang@njupt.edu.cn">me</a> your CV.  
+
+
+Advice for prospective students:
+* Break Out of the Undergraduate Mentality.
+* Own your research.
+* Be willing to push back.
+* Be active in the social dimension of research.
+* Build up your skills, but get out as soon as you can.
+* **Most important thing: I believe mentality (initiative, attitude, etc.) is much more important than any technical skills, and the same is true for all fields beyond sciences and engineering. With the right mentality, everything follows.**
+
+
 
