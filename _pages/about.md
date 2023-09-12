@@ -23,7 +23,7 @@ I am always looking for self-motivated graduate students, if you are interested 
 
 
 Advice for prospective students:
-* Break Out of the Undergraduate Mentality.
+* Break out of the undergraduate mentality.
 * Own your research.
 * Be willing to push back.
 * Be active in the social dimension of research.
