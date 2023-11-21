@@ -181,6 +181,7 @@ collections:
   photos:
     output: true
     permalink: /photos/:name
+    layout: photo_collection
 #  publications:
 #    output: true
 #    permalink: /:collection/publications/
