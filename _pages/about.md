@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 
-Currently, I am an Assistant Professor at Nanjing University of Posts and Telecommunications (NJUPT), Nangjing, China. Before I joined NJUPT, I was a research engineer at Huawei Ottawa R&D Center, Ottawa, Canada. My research interests include in-network caching, ICN, DCN, multimedia communications, and AI-powered networks.
+Currently, I am an Assistant Professor at Nanjing University of Posts and Telecommunications (NJUPT), Nangjing, China. Before I joined NJUPT, I was a research engineer at Huawei Ottawa R&D Center, Ottawa, Canada. My research interests include multimedia networking, network intelligence, in-network caching, DCN, and ICN.
 
 
 What's new
 ======
-An industry project (a WeChat mini program) is seeking students who possess strong skills in backend or frontend programming. This is a great opportunity to gain hands-on experience in programming. If you are also interested in pursuing a master's degree with me, please send me an email indicating your interest.
+An industry project (a WeChat mini program) is seeking students who possess strong skills in backend or frontend programming. This is a great opportunity to gain hands-on experience in programming. 
 
 
 For Prospective Students
