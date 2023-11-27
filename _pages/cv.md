@@ -26,12 +26,12 @@ Work Experience
   * Ericsson Canada
   * Ottawa, ON, Canada
 
-* 2015-2019: Research Assistant
+* 2015.09-2019.09: Research Assistant
   * Carleton University
   * Supervisor: Chung-Horng Lung, Marc St-Hilaire, and Ioannis Lambadaris
   * Ottawa, ON, Canada
 
-* 2015-2019: Teaching Assistant
+* 2015.09-2019.09: Teaching Assistant
   * Carleton University
   * Courses included: SYSC 4602: Computer Communications, SYSC 4502: Communications Software, SYSC 2100: Algorithms and Data Structure, SYSC 4701: Communications Systems Lab
   * Ottawa, ON, Canada
