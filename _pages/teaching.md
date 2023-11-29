@@ -15,7 +15,7 @@ Computer Networks
 ======
 * 2022 fall, 2023 Fall
 * Undergraduate
-* [Course Slides can be found here.](download.md)
+* [Course slides can be found here.](download.md)
 * [A collection of notes and references for self-studying computer science.](https://notes.eddyerburgh.me)
 
 Switching Technology in Communication Networks
