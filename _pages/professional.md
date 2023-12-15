@@ -10,7 +10,9 @@ Reviewer for Journal Manuscript Submissions:
 * IEEE Transactions on Industrial Informatics
 * IEEE Transactions on Intelligent Transportation Systems
 * IEEE Transactions on Network and Service Management 
+* IEEE IEEE Transactions on Network Science and Engineering
 * IEEE Internet of Things Journal
+* IEEE Network
 * IEEE Communications Letters
 * ACM Transactions on Multimedia Computing, Communications, and Applications
 * Elsevier Computer Networks
