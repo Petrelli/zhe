@@ -14,6 +14,8 @@ Slides of Computer Networks
 * [Chapter-5-1](../download/第5章_网络互联-1.pdf)
 * [Chapter-5-2](../download/第五章-VPN+IPv6.pdf)
 * [Chapter-6](../download/第6章-传输层.pdf)
+* [Chapter-7](../download/第7章-应用层.pdf)
+
 
 
 
