@@ -7,6 +7,8 @@ author_profile: true
 
 Selected Journal Papers
 ======
+Zhe Zhang, Xin Wei and Zhicai Zhang, "A Prediction-based Traffic Scheduling Framework for Multimedia Services in Dynamic Networks," IEEE Communications Letters, early access.
+
 Fang Fu, Xiangpeng Wei, Zhicai Zhang, Laurence T. Yang, Lin Cai, Jia Luo, Zhe Zhang, Chenmeng Wang, "Age of Information Minimization for UAV-assisted Internet of Things Networks: A Safe Actor-Critic with Policy Distillation Approach," IEEE Transactions on Network Science and Engineering, early access.
 
 Zhe Zhang, Chung-Horng Lung, Xin Wei, Mingkai Chen, Subhajit Chatterjee and Zhicai Zhang, "In-network Caching for ICN-based IoT (ICN-IoT): A Comprehensive Survey," IEEE Internet of Things Journal, vol. 10, no. 16, pp. 14595-14620, August, 2023.

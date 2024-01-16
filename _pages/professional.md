@@ -7,6 +7,7 @@ author_profile: true
 
 Reviewer for Journal Manuscript Submissions: 
 ======
+* IEEE/ACM Transactions on Networking
 * IEEE Transactions on Industrial Informatics
 * IEEE Transactions on Intelligent Transportation Systems
 * IEEE Transactions on Network and Service Management 
@@ -29,5 +30,5 @@ TPC Member:
 ======
 * IEEE ICC 2020-present
 * IEEE GLOBECOM 2020-present
-* IEEE WCNC 2021-present
+* IEEE WCNC 2021, 2022
 * IEEE CCNC 2021
