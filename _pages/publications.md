@@ -7,6 +7,8 @@ author_profile: true
 
 Selected Journal Papers
 ======
+Zhe Zhang, Marc St-Hilaire, Xin Wei, Haiwei Dong and AAbdulmotaleb El Saddik, "How to Cache Important Contents for Multi-modal Service in Dynamic Networks: A DRL-based Caching Scheme," in IEEE Transactions on Multimedia, early access.
+
 Zhe Zhang, Xin Wei and Zhicai Zhang, "A Prediction-based Traffic Scheduling Framework for Multimedia Services in Dynamic Networks," IEEE Communications Letters, early access.
 
 Fang Fu, Xiangpeng Wei, Zhicai Zhang, Laurence T. Yang, Lin Cai, Jia Luo, Zhe Zhang, Chenmeng Wang, "Age of Information Minimization for UAV-assisted Internet of Things Networks: A Safe Actor-Critic with Policy Distillation Approach," IEEE Transactions on Network Science and Engineering, early access.

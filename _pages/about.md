@@ -14,8 +14,7 @@ Currently, I am an Assistant Professor at Nanjing University of Posts and Teleco
 
 What's new
 ======
-An industry project (a WeChat mini program) is seeking students who possess strong skills in backend or frontend programming. This is a great opportunity to gain hands-on experience in programming. 
-
+Our paper "How to Cache Important Contents for Multi-modal Service in Dynamic Networks: A DRL-based Caching Scheme" is accepted by IEEE Transactions on Multimedia.
 
 For Prospective Students
 ======
