@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Currently, I am an Assistant Professor at Nanjing University of Posts and Telecommunications (NJUPT), Nangjing, China. Before I joined NJUPT, I was a research engineer at Huawei Ottawa R&D Center, Ottawa, Canada. My research interests include multimedia networking, intelligent networks, in-network caching, DCN, and ICN.
+Currently, I am an Assistant Professor with the School of Communications and Information Engineering, Nanjing University of Posts and Telecommunications (NJUPT), Nangjing, China. Before I joined NJUPT, I was a research engineer at Huawei Ottawa R&D Center, Ottawa, Canada. My research interests include multimedia networking, intelligent networks, in-network caching, DCN, and ICN.
 
 
 What's new
@@ -18,7 +18,7 @@ Our paper "How to Cache Important Contents for Multi-modal Service in Dynamic Ne
 
 For Prospective Students
 ======
-I am always looking for self-motivated graduate students, if you are interested in what I am doing, please send <a href="mailto:zhezhang@njupt.edu.cn">me</a> your CV.  
+I am always looking for self-motivated graduate students, if you are interested in what I am doing, please send <a href="mailto:zhezhang@njupt.edu.cn">me</a> your CV. For NJUPT students, I encourage them to do their 4th year project with me.
 
 
 Advice for prospective students:
