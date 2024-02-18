@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Currently, I am an Assistant Professor with the School of Communications and Information Engineering, Nanjing University of Posts and Telecommunications (NJUPT), Nangjing, China. Before I joined NJUPT, I was a research engineer at Huawei Ottawa R&D Center, Ottawa, Canada. My research interests include multimedia networking, intelligent networks, in-network caching, DCN, and ICN.
+Currently, I am an Assistant Professor with the School of Communications and Information Engineering, Nanjing University of Posts and Telecommunications (NJUPT), Nangjing, China. Before I joined NJUPT, I was a Research Engineer at Huawei Ottawa R&D Center, Ottawa, Canada. My research interests include multimedia networking, intelligent networks, in-network caching, DCN, and ICN.
 
 
 What's new
