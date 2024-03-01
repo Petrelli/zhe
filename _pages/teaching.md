@@ -22,7 +22,7 @@ Switching Technology in Communication Networks
 ======
 * 2023 spring, 2024 spring
 * Undergraduate
-* [Course slides can be found here.](download.md)
+* [Course slides](download.md)
 
 Some Useful Links
 ======
