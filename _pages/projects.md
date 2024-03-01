@@ -10,12 +10,12 @@ permalink: /projects/
 ## Grants
 Research on Key Technologies of Adaptive Edge Caching for Multi-modal Services in Dynamic Network Environments
  * National Natural Science Foundation of China (NSFC)
- * 2023-2026
+ * 2023-2025
 
 
 Intelligent In-network Caching for Multi-modal Contents
  * Natural Science Foundation of Jiangsu Province, China
- * 2023-2026
+ * 2023-2025
 
 Content Diversity-based Intelligent In-network Caching System for ICN Networks
  * Natural Science Foundation of the Higher Education Institutions of Jiangsu Province, China
