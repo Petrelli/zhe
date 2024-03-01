@@ -13,16 +13,16 @@ Mobile Communication System
 
 Computer Networks
 ======
-* 2022 fall, 2023 Fall
+* 2022 fall, 2023 fall
 * Undergraduate
 * [Course slides can be found here.](download.md)
 * [A collection of notes and references for self-studying computer science.](https://notes.eddyerburgh.me)
 
 Switching Technology in Communication Networks
 ======
-* 2023 Spring
+* 2023 spring, 2024 spring
 * Undergraduate
-
+* [Course slides can be found here.](download.md)
 
 Some Useful Links
 ======
