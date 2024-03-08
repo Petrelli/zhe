@@ -20,6 +20,9 @@ Slides of Computer Networks
 Slides of Switching Technology in Communication Networks
 ======
 * [Chapter-1](../download/switching/chapter1-1.pdf)
+* [Chapter-1](../download/switching/chapter1-2.pdf)
+
+
 
 
 
