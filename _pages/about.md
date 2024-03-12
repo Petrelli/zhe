@@ -14,7 +14,7 @@ Currently, I am an Assistant Professor with the School of Communications and Inf
 
 What's new
 ======
-Our paper "How to Cache Important Contents for Multi-modal Service in Dynamic Networks: A DRL-based Caching Scheme" is accepted by IEEE Transactions on Multimedia.
+Our paper "How to Cache Important Contents for Multi-modal Service in Dynamic Networks: A DRL-based Caching Scheme" has been accepted by IEEE Transactions on Multimedia.
 
 For Prospective Students
 ======
