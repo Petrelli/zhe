@@ -28,6 +28,7 @@ Slides of Switching Technology in Communication Networks
 * [Chapter-4-1](../download/switching/chapter4-part1.pdf)
 * [Chapter-4-2](../download/switching/chapter4-part2.pdf)
 * [Chapter-5-1](../download/switching/chapter5-1.pdf)
+* [Chapter-5-2](../download/switching/chapter5-2.pdf)
 
 
 
