@@ -18,7 +18,7 @@ Our paper "How to Cache Important Contents for Multi-modal Service in Dynamic Ne
 
 For Prospective Students
 ======
-I am always looking for self-motivated graduate students, if you are interested in what I am doing, please send <a href="mailto:zhezhang@njupt.edu.cn">me</a> your CV. For NJUPT students, I encourage them to do their 4th year project with me.
+I am always looking for self-motivated graduate students, if you are interested in what I am doing, please send <a href="mailto:zhezhang@njupt.edu.cn">me</a> your CV. For NJUPT students, I strongly encourage them to do their 4th year project with me.
 
 
 Advice for prospective students:
