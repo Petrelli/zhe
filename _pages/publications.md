@@ -13,11 +13,11 @@ Zhe Zhang, Xin Wei and Zhicai Zhang, "A Prediction-based Traffic Scheduling Fram
 
 Fang Fu, Xiangpeng Wei, Zhicai Zhang, Laurence T. Yang, Lin Cai, Jia Luo, Zhe Zhang, Chenmeng Wang, "Age of Information Minimization for UAV-assisted Internet of Things Networks: A Safe Actor-Critic with Policy Distillation Approach," IEEE Transactions on Network Science and Engineering, vol. 11, no. 1, pp. 1265-1276, January, 2024.
 
+Mingzi Chen, Xin Wei, Peizhong Xie, Zhe Zhang, "QoE oriented intelligent online learning evaluation technology in B5G scenario," Elsevier Digital Communications and Networks, vol. 10, no. 1, 7-15, February, 2024.
+
 Zhe Zhang, Chung-Horng Lung, Xin Wei, Mingkai Chen, Subhajit Chatterjee and Zhicai Zhang, "In-network Caching for ICN-based IoT (ICN-IoT): A Comprehensive Survey," IEEE Internet of Things Journal, vol. 10, no. 16, pp. 14595-14620, August, 2023.
 
 Zhe Zhang, Xin Wei, Chung-Horng Lung, Yu Zhao, "iCache: An Intelligent Caching Scheme for Dynamic Network Environments in ICN-based IoT Networks," IEEE Internet of Things Journal, vol. 10, no. 2, pp. 1787-1799, January, 2023.
-
-Mingzi Chen, Xin Wei, Peizhong Xie, Zhe Zhang, "QoE oriented intelligent online learning evaluation technology in B5G scenario," Elsevier Digital Communications and Networks, In press, 2022.
 
 Xiang Liu, Xiaoying Tan, Yuchun Guo, Yishuai Chen, Zhe Zhang, "CSTRM: Contrastive Self-Supervised Trajectory Representation Model for trajectory similarity computation", Elsevier Computer Communications, January, 2022.
 
