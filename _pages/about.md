@@ -14,7 +14,7 @@ Currently, I am an Assistant Professor with the School of Communications and Inf
 
 What's New
 ======
-Our paper "How to Cache Important Contents for Multi-modal Service in Dynamic Networks: A DRL-based Caching Scheme" has been accepted by IEEE Transactions on Multimedia.
+Our paper "A Survey on Replica Transfer Optimization Schemes in Geographically Distributed Data Centers" has been accepted by IEEE Transactions on Network and Service Management.
 
 For Prospective Students
 ======
