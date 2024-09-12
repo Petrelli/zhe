@@ -14,7 +14,11 @@ I received my Ph.D degree from the Department of Systems and Computer Engineerin
 
 Work Experience
 ======
-* 2021.03-present: Assistant Professor
+* 2024.09-present: Associate Professor
+  * Nanjing University of Posts and Telecommunications
+  * Nanjing, Jiangsu, China 
+
+* 2021.03-2024.09: Assistant Professor
   * Nanjing University of Posts and Telecommunications
   * Nanjing, Jiangsu, China 
 
