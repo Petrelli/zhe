@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Projects"
+title: "Grants"
 permalink: /projects/
 #author_profile: true
 ---
 
 
 
-## Grants
+## Research Grants
 Research on Key Technologies of Adaptive Edge Caching for Multi-modal Services in Dynamic Network Environments
  * National Natural Science Foundation of China (NSFC)
  * 2023-2025
@@ -23,7 +23,7 @@ Content Diversity-based Intelligent In-network Caching System for ICN Networks
 
 
 
-## Industry Projects
+## Industry Grants
 Energy Peanut Course Reservation System (Wechat miniprogram)
 * 2023-2024
 
