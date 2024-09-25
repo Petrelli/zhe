@@ -14,7 +14,7 @@ Currently, I am an Associate Professor with the School of Communications and Inf
 
 What's New
 ======
-Our paper "A Survey on Replica Transfer Optimization Schemes in Geographically Distributed Data Centers" has been accepted by IEEE Transactions on Network and Service Management.
+For life, if you believe it is long enough and there's no need to rush into a job just to earn money, you can spend time on interesting pursuits to enrich your experience. If you are self-motivated and possess strong skills in mathematics, English, or programming (having two skills would be even better), we sincerely welcome you to join our team. Next year, I can accept a maximum of 3-4 master's students.
 
 For Prospective Students
 ======
