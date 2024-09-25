@@ -14,7 +14,7 @@ Currently, I am an Associate Professor with the School of Communications and Inf
 
 What's New
 ======
-For life, if you believe it is long enough and there's no need to rush into a job just to earn money, you can spend time on interesting pursuits to enrich your experience. If you are self-motivated and possess strong skills in mathematics, English, or programming (having two skills would be even better), we sincerely welcome you to join our team. Next year, I can accept a maximum of 3-4 master's students.
+For life, if you believe it is long enough and there's no need to rush into a job just to earn money, allowing time for interesting pursuits to enrich your experience, then we likely share the same same philosophy of life. It is always a pleasure to work with people who share the same same philosophy of life. Additionally, if you are self-motivated and possess strong skills in mathematics, English, or programming (having two skills would be even better), we sincerely welcome you to join our team. Next year, I can accept a maximum of 3-4 master's students.
 
 For Prospective Students
 ======
