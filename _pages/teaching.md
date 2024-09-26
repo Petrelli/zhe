@@ -13,7 +13,7 @@ Mobile Communication System
 
 Computer Networks
 ======
-* 2022 fall, 2023 fall
+* 2022 fall, 2023 fall, 2024 fall
 * Undergraduate
 * [Course slides can be found here.](download.md)
 * [A collection of notes and references for self-studying computer science.](https://notes.eddyerburgh.me)
