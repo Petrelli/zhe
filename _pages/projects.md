@@ -25,7 +25,7 @@ Content Diversity-based Intelligent In-network Caching System for ICN Networks
 
 ## Industry Grants
 Energy Peanut Course Reservation System (Wechat miniprogram)
-* 2023-2024
+* 2023-2025
 
 Demand-aware Reconfigure Datacenter Networks
  * Huawei Ottawa R&D Center
