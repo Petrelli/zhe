@@ -34,5 +34,5 @@ Demand-aware Reconfigure Datacenter Networks
 Ericsson Indoor Planner
  * Ericsson Canada
  * 2018
- * More info can be found [here](https://www.ericsson.com/en/portfolio/networks/ericsson-radio-system/radio/small-cells/indoor2/ericsson-indoor-planner)
+ * More info can be found [here](https://www.ericsson.com/en/portfolio/networks/ericsson-radio-system/radio/small-cells/indoor/ericsson-indoor-planner)
 
