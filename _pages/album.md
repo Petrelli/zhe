@@ -43,7 +43,7 @@ permalink: /album/
 
 
 ![Xian](../photos/IMG_4309.JPG)
-*The 4th Shaanxi Province sild road forum of young scholars, Xian, Shaanxi, China, 2019*
+*The 4th Shaanxi Province silk road forum of young scholars, Xian, Shaanxi, China, 2019*
 
 ![ICC-2019](../photos/IMG_3486.jpg)
 *ICC 2019, Shanghai, China*
