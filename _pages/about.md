@@ -14,11 +14,14 @@ Currently, I am an Associate Professor with the School of Communications and Inf
 
 What's New
 ======
-If you believe life is the sum of experiences, and there's no need to rush into a job just to earn money—allowing time for meaningful pursuits to enrich your life—then we likely share the same philosophy. It is always a pleasure to work with people who share this philosophy. Additionally, if you are self-motivated and possess strong skills in mathematics, English, or programming (having two skills would be even better), we sincerely welcome you to join our team. Next year, I can accept a maximum of 3-4 master’s students.
+Our paper "A Survey on Replica Transfer Optimization Schemes in Geographically Distributed Data Centers" have been accepted by IEEE Transactions on Network and Service Management.
+
 
 For Prospective Students
 ======
-I am always looking for self-motivated graduate students, if you are interested in what I am doing, please send <a href="mailto:zhezhang@njupt.edu.cn">me</a> your CV. For NJUPT students, I strongly encourage them to do their 4th year project with me.
+If you believe life is the sum of experiences, and there's no need to rush into a job just to earn money—allowing time for meaningful pursuits to enrich your life—then we likely share the same philosophy. It is always a pleasure to work with people who share the same philosophy. Additionally, if you are self-motivated and possess strong skills in mathematics, English, or programming (having two skills would be even better), we sincerely welcome you to join our team. Next year, I can accept a maximum of 3-4 master’s students. 
+
+If you are interested in what I am doing, please send <a href="mailto:zhezhang@njupt.edu.cn">me</a> your CV. For NJUPT students, I strongly encourage them to do their 4th year project with me.
 
 
 Advice for prospective students:
