@@ -14,7 +14,7 @@ Currently, I am an Associate Professor with the School of Communications and Inf
 
 What's New
 ======
-[Final Exam Review Materials](../download/网络技术与应用2024秋-复习提纲解析版.pdf). 
+[Final Exam Review Materials for Networking Fall 2024](../download/网络技术与应用2024秋-复习提纲解析版.pdf). 
 The video can be downloaded [here](https://pan.baidu.com/s/1E8YTSluDLN8PCNWce1ax8g), extraction code (提取码): t4he
 
 For Prospective Students
