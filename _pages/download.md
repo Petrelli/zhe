@@ -15,6 +15,7 @@ Slides of Computer Networks
 * [Chapter-5-2](../download/第五章-VPN+IPv6.pdf)
 * [Chapter-6](../download/第6章-传输层.pdf)
 * [Chapter-7](../download/第7章-应用层.pdf)
+* [Exam](../download/网络技术与应用2024秋-复习提纲解析版.pptx)
 
 
 Slides of Switching Technology in Communication Networks

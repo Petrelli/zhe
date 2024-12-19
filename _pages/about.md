@@ -14,8 +14,8 @@ Currently, I am an Associate Professor with the School of Communications and Inf
 
 What's New
 ======
-Our paper "A Survey on Replica Transfer Optimization Schemes in Geographically Distributed Data Centers" have been accepted by IEEE Transactions on Network and Service Management.
-
+[Final Exam Review Materials](../download/网络技术与应用2024秋-复习提纲解析版.pptx). 
+The video can be downloaded [here](https://pan.baidu.com/s/1E8YTSluDLN8PCNWce1ax8g), extraction code (提取码): t4he
 
 For Prospective Students
 ======
