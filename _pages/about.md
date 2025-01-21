@@ -14,8 +14,7 @@ Currently, I am an Associate Professor with the School of Communications and Inf
 
 What's New
 ======
-[Final Exam Review Materials for Networking Fall 2024 (new version!)](../download/网络技术与应用2024A-复习提纲.pdf). 
-The video can be downloaded [here](https://pan.baidu.com/s/1_qNLXCkeQOqiOVNhBgm21A?pwd=3412), extraction code (提取码): 3412
+Our paper "A GAI-Based Haptic Transmission Architecture for Extending Headset Lifespan in Haptic-Enhanced XR" has been accepted by IEEE ICC 2025.
 
 For Prospective Students
 ======
