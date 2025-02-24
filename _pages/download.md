@@ -17,6 +17,12 @@ Slides of Computer Networks
 * [Chapter-7](../download/第7章-应用层.pdf)
 * [Exam](../download/网络技术与应用2024秋-复习提纲解析版.pdf)
 
+Slides of China Communications
+======
+* [Chapter-1](../download/ChinaCom/chapter-1.pdf)
+
+
+
 
 Slides of Switching Technology in Communication Networks
 ======
