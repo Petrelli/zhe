@@ -14,7 +14,7 @@ Currently, I am an Associate Professor with the School of Communications and Inf
 
 What's New
 ======
-Our paper "A GAI-Based Haptic Transmission Architecture for Extending Headset Lifespan in Haptic-Enhanced XR" has been accepted by IEEE ICC 2025.
+Our paper "Generative-AI for XR Content Transmission in the Metaverse: Potential Approaches, Challenges, and a Generation-Driven Transmission Framework" has been accepted by IEEE NETWORK.
 
 For Prospective Students
 ======
