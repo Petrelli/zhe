@@ -4,6 +4,11 @@ title: "Download"
 permalink: /download/
 author_profile: true
 ---
+Slides of China Communications
+======
+* [Chapter-1](../download/ChinaCom/chapter-1.pdf)
+* [Chapter-2](../download/ChinaCom/chapter-2.pdf)
+
 
 Slides of Computer Networks
 ======
@@ -16,12 +21,6 @@ Slides of Computer Networks
 * [Chapter-6](../download/第6章-传输层.pdf)
 * [Chapter-7](../download/第7章-应用层.pdf)
 * [Exam](../download/网络技术与应用2024秋-复习提纲解析版.pdf)
-
-Slides of China Communications
-======
-* [Chapter-1](../download/ChinaCom/chapter-1.pdf)
-* [Chapter-2](../download/ChinaCom/chapter-2.pdf)
-
 
 
 
