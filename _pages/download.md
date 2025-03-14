@@ -8,6 +8,7 @@ Slides of China Communications
 ======
 * [Chapter-1](../download/ChinaCom/chapter-1.pdf)
 * [Chapter-2](../download/ChinaCom/chapter-2.pdf)
+* [Chapter-3](../download/ChinaCom/chapter-3.pdf)
 
 
 Slides of Computer Networks
