@@ -14,7 +14,7 @@ Currently, I am an Associate Professor with the School of Communications and Inf
 
 What's New
 ======
-Our paper "Generative-AI for XR Content Transmission in the Metaverse: Potential Approaches, Challenges, and a Generation-Driven Transmission Framework" has been accepted by IEEE NETWORK.
+Our paper "Generative-AI for XR Content Transmission in the Metaverse: Potential Approaches, Challenges, and a Generation-Driven Transmission Framework" has been accepted by IEEE Network.
 
 For Prospective Students
 ======
