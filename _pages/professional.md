@@ -9,6 +9,7 @@ Reviewer for Journal Manuscript Submissions:
 ======
 * IEEE/ACM Transactions on Networking
 * IEEE Transactions on Multimedia
+* IEEE Transactions on Mobile Computing
 * IEEE Transactions on Industrial Informatics
 * IEEE Transactions on Intelligent Transportation Systems
 * IEEE Transactions on Network and Service Management 
