@@ -11,6 +11,7 @@ Slides of China Communications
 * [Chapter-3](../download/ChinaCom/chapter-3.pdf)
 * [Chapter-4](../download/ChinaCom/chapter-4.pdf)
 * [Chapter-5](../download/ChinaCom/chapter-5.pdf)
+* [Chapter-6](../download/ChinaCom/chapter-6.pdf)
 * [Final Project Report Requirements](../download/ChinaCom/Report.pdf)
 
 
