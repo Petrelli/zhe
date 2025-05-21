@@ -24,6 +24,10 @@ Content Diversity-based Intelligent In-network Caching System for ICN Networks
 
 
 ## Industry Grants
+AI Rescue System for Highway Clearance Vehicles
+* China Mobile Research Center (Shanghai)
+* 2025-2026
+
 Energy Peanut Course Reservation System (Wechat miniprogram)
 * 2023-2025
 
