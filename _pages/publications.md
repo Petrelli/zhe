@@ -8,7 +8,7 @@ author_profile: true
 Selected Journal Papers
 ======
 
-Bita Fatemipour, Zhe Zhang, Marc St-Hilaire，"Jiangsu T-COMS: A Time-Slot-Aware and Cost-Effective Data Transfer Method for Geo-Distributed Data Centers," IEEE Transactions on Cloud Computing, 2025, Early Access.
+Bita Fatemipour, Zhe Zhang, Marc St-Hilaire，"T-COMS: A Time-Slot-Aware and Cost-Effective Data Transfer Method for Geo-Distributed Data Centers," IEEE Transactions on Cloud Computing, 2025, Early Access.
 
 Zhe Zhang, Yili Jiang, Xin Wei, Mingkai Chen, Haiwei Dong, Shui Yu, "Generative-AI for XR Content Transmission in the Metaverse: Potential Approaches, Challenges, and a Generation-Driven Transmission Framework," IEEE Network, 2025, Early Access.
 
