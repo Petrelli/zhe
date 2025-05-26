@@ -14,7 +14,7 @@ Currently, I am an Associate Professor with the School of Communications and Inf
 
 What's New
 ======
-Our paper "Generative-AI for XR Content Transmission in the Metaverse: Potential Approaches, Challenges, and a Generation-Driven Transmission Framework" has been accepted by IEEE Network.
+Our paper "Jiangsu T-COMS: A Time-Slot-Aware and Cost-Effective Data Transfer Method for Geo-Distributed Data Centers" has been accepted by IEEE Transactions on Cloud Computing.
 
 For Prospective Students
 ======
