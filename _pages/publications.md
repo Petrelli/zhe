@@ -36,6 +36,8 @@ Zhe Zhang, Chung-Horng Lung, Ioannis Lambadaris, Marc St-Hilaire, “When 5G Mee
 
 Selected Conference Papers
 ======
+Chi Zhang, Zhe Zhang, Mingkai Chen, Anqi Tong, Chung-Horng Lung, and Joel J. P. C. Rodrigues, “A GAI-Based Haptic Transmission Architecture for Extending Headset Lifespan in Haptic-Enhanced XR,” roceedings of the 2025 IEEE International Conference on Communications (ICC 2025), Montreal, QC, Canada, June, 2025.
+
 Zhe Zhang, Mingkai Chen, Jiehan Zhou, “A Lightweight Cache-Assisted Data Recovery Mechanism for Latency-Critical Data in IIoT,” 2023 International Conference on Wireless Communications and Signal Processing (WCSP 2023), Hangzhou, China, November, 2023.
 
 Zhe Zhang, Chung-Horng Lung, Marc St-Hilaire, Ioannis Lambadaris, “Smart Caching: Empower the Video Delivery for 5G-ICN Networks,” Proceedings of the 2019 IEEE International Conference on Communications (ICC 2019), Shanghai, China, May, 2019.
