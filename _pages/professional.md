@@ -7,6 +7,7 @@ author_profile: true
 
 Reviewer for Journal Manuscript Submissions: 
 ======
+* IEEE Journal on Selected Areas in Communications 
 * IEEE/ACM Transactions on Networking
 * IEEE Transactions on Multimedia
 * IEEE Transactions on Mobile Computing
