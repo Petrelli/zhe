@@ -14,9 +14,11 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  # - title: "Album"
-  #   url: /album/
-
+  
   - title: "Lab"
     url: /lab/
+    
+  - title: "Album"
+    url: /album/
+
+  
