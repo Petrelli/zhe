@@ -15,5 +15,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Album"
-    url: /album/
+  # - title: "Album"
+  #   url: /album/
+
+  - title: "Lab"
+    url: /lab/
