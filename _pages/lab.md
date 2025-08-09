@@ -21,5 +21,4 @@ permalink: /lab/
 Please check this [link](http://10.6.3.51:80) to set up your work environment  
 *(only accessible within NJUPT's internal network)*.
 
-## For new graduate students
-Please check this [link](http://10.6.3.51:80) to set up your work environment (only accessible within the NJUPT's internal network).
+
