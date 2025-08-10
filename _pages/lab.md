@@ -13,7 +13,7 @@ permalink: /lab/
 ## 🏛 About Us
 The **MANet Lab** focuses on cutting-edge research in **Multimedia Networking**, **Intelligent Networks**, **Caching**, and the **Metaverse**.  
 We aim to build intelligent and efficient systems that deliver multimedia content more efficiently and can be implemented in the real world.
----
+
 
 ## 👩‍🎓 Current Students
 - **Chi Zhang**, Master student (2023)  
