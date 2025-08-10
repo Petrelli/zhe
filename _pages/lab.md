@@ -5,7 +5,6 @@ permalink: /lab/
 #author_profile: true
 ---
 
-# MANet Lab  
 **Multimedia & AI Networking Laboratory**  
 *Networking for Good*
 
