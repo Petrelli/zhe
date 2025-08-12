@@ -25,7 +25,7 @@ The **AIMNet Lab** focuses on cutting-edge research in **Multimedia Networking**
 ---
 
 ## 📢 For New Graduate Students
-Please check this [link](http://10.6.3.51:80) to set up your work environment  
+Please check this [link](http://10.6.3.51:80) to set up your work environment.  
 *(only accessible within NJUPT's internal network)*
 
 
