@@ -13,7 +13,8 @@ redirect_from:
 I received my Ph.D degree from the Department of Systems and Computer Engineering, Carleton University on Sep 19, 2019. Many thanks to my supervisor Chung-Horng Lung, co-supervisor Marc St-Hilaire and Ioannis Lambadaris, not only for their wholehearted guidance on my life as a student, but also for their profound influence on my values as a human being. Before I joined NJUPT, I was a research engineer at Huawei Ottawa R&D Center, Ottawa, Canada. 
 
 Work Experience
-======
+---
+
 * 2024.09-present: Associate Professor
   * Nanjing University of Posts and Telecommunications
   * Nanjing, Jiangsu, China 
