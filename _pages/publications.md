@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Selected Journal Papers
+
+
+## Selected Journal Papers
 ======
 
 Bita Fatemipour, Zhe Zhang, Marc St-Hilaire，"T-COMS: A Time-Slot-Aware and Cost-Effective Data Transfer Method for Geo-Distributed Data Centers," IEEE Transactions on Cloud Computing, 2025, Early Access.
@@ -34,7 +36,7 @@ Zhe Zhang, Chung-Horng Lung, Marc St-Hilaire, Ioannis Lambadaris, “An SDN-base
 
 Zhe Zhang, Chung-Horng Lung, Ioannis Lambadaris, Marc St-Hilaire, “When 5G Meets ICN: An ICN-based caching approach for mobile video in 5G networks,” Elsevier Computer Communications, vol. 118, pp. 81-92, March, 2018.
 
-Selected Conference Papers
+## Selected Conference Papers
 ======
 Chi Zhang, Zhe Zhang, Mingkai Chen, Anqi Tong, Chung-Horng Lung, and Joel J. P. C. Rodrigues, “A GAI-Based Haptic Transmission Architecture for Extending Headset Lifespan in Haptic-Enhanced XR,” Proceedings of the 2025 IEEE International Conference on Communications (ICC 2025), Montreal, QC, Canada, June, 2025.
 

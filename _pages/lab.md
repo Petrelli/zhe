@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "MANet Lab"
+title: "AIMN Lab"
 permalink: /lab/
 #author_profile: true
 ---
 
-**Multimedia & AI Networking Laboratory**  
+**AI-powered Multimedia Networking**  
 *Networking for Good*
 
 ---

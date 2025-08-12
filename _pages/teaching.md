@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 
-China Communications
+
+## China Communications
 ======
 * 2025 Spring
 * Undergraduate (international students)
@@ -14,25 +15,25 @@ China Communications
 
 
 
-Computer Networks
+## Computer Networks
 ======
 * 2022 fall, 2023 fall, 2024 fall
 * Undergraduate
 * [Course slides can be found here.](download.md)
 * [A collection of notes and references for self-studying computer science.](https://notes.eddyerburgh.me)
 
-Switching Technology in Communication Networks
+## Switching Technology in Communication Networks
 ======
 * 2023 spring, 2024 spring
 * Undergraduate
 * [Course slides](download.md)
 
-Mobile Communication System
+## Mobile Communication System
 ======
 * 2022 Spring
 * Undergraduate
 
-Some Useful Links
+## Some Useful Links
 ======
 How to write perfect papers? Check the following links (talks from Prof. Baochun Li):
 * [Here](https://iqua.ece.toronto.edu/papers/writing-perfect-papers-2021.pdf) is the slides link.
