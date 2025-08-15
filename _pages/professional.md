@@ -5,13 +5,13 @@ permalink: /professional/
 author_profile: true
 ---
 
-
-## Reviewer for Journal Manuscript Submissions: 
----
+Reviewer for Journal Manuscript Submissions: 
+======
 * IEEE Journal on Selected Areas in Communications 
 * IEEE/ACM Transactions on Networking
 * IEEE Transactions on Multimedia
-* IEEE Transactions on Mobile Computing
+* IEEE Transactions on Mobile Computingpip uninstall vllm
+
 * IEEE Transactions on Industrial Informatics
 * IEEE Transactions on Intelligent Transportation Systems
 * IEEE Transactions on Network and Service Management 
@@ -23,15 +23,15 @@ author_profile: true
 * Elsevier Computer Networks
 * Elsevier Computer Communications
 
-## Reviewer for Conference Manuscript Submissions: 
----
+Reviewer for Conference Manuscript Submissions: 
+======
 * IEEE ICC
 * IEEE GLOBECOM
 * IEEE WCNC
 * IEEE CCNC
 
-## TPC Member:
----
+TPC Member:
+======
 * IEEE ICC 2020-present
 * IEEE GLOBECOM 2020-present
 * IEEE WCNC 2021, 2022

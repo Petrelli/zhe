@@ -5,7 +5,7 @@ permalink: /lab/
 #author_profile: true
 ---
 
-**AI-powered Multimedia Networking**  
+**AI-powered Multimedia Networking Lab**  
 *Empowering Next-Generation Networks for Multimedia Content Delivery*
 
 ---
