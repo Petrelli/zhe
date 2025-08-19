@@ -49,4 +49,3 @@ Zhe Zhang, Chung-Horng Lung, Ioannis Lambadaris, Marc St-Hilaire, “IoT Data Li
 
 Zhe Zhang, Chung-Horng Lung, Ioannis Lambadaris, Marc St-Hilaire, Sankarshan Nagaraja Rao, “Router Position-based Cooperative Caching for Video-on-Demand in Information-Centric Networking,” Proceedings of the 2017 conference on 41st Annual IEEE Computer Software and Applications Conference (COMPSAC), Torino, Italy, July, 2017.
 
-Biao Liang, Yuchun Guo, Yishuai Chen and Zhe Zhang, "An improved cache strategy based on WSP cooperation," 2015 IEEE 9th International Conference on Anti-counterfeiting, Security, and Identification (ASID), Xiamen, September, 2015.
