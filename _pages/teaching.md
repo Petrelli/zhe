@@ -20,7 +20,6 @@ permalink: /teaching/
 * 2022 fall, 2023 fall, 2024 fall
 * Undergraduate
 * [Course slides can be found here.](download.md)
-* [A collection of notes and references for self-studying computer science.](https://notes.eddyerburgh.me)
 
 ## Switching Technology in Communication Networks
 ---
@@ -35,9 +34,6 @@ permalink: /teaching/
 
 ## Some Useful Links
 ---
-How to write perfect papers? Check the following links (talks from Prof. Baochun Li):
-* [Here](https://iqua.ece.toronto.edu/papers/writing-perfect-papers-2021.pdf) is the slides link.
-* [Here](https://www.youtube.com/watch?v=FxGo5hn8dTw) is the video link.
-
-[A link for self studying operating system.](https://oscourse.org) Also created by Prof. Baochun Li.
+* [A collection of notes and references for self-studying computer science.](https://notes.eddyerburgh.me)
+* [A link for self studying operating system.](https://oscourse.org)
 
