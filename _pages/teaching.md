@@ -17,7 +17,7 @@ permalink: /teaching/
 
 ## Computer Networks
 ---
-* 2022 fall, 2023 fall, 2024 fall
+* 2022 fall, 2023 fall, 2024 fall, 2025 fall
 * Undergraduate
 * [Course slides can be found here.](download.md)
 
