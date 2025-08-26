@@ -34,6 +34,6 @@ permalink: /teaching/
 
 ## Some Useful Links
 ---
-* [A collection of notes and references for self-studying computer science.](https://notes.eddyerburgh.me)
-* [A link for self studying operating system.](https://oscourse.org)
+* [A collection of notes and references for self-studying computer science](https://notes.eddyerburgh.me).
+* [A link for self studying operating system](https://oscourse.org).
 
