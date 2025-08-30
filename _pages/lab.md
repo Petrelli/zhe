@@ -30,7 +30,7 @@ The **AIMNet Lab** conducts cutting-edge research in **Multimedia Networking**, 
 * How to write perfect papers? Check the following links:
     * [A talk from Prof. Baochun Li](https://iqua.ece.toronto.edu/papers/writing-perfect-papers-2021.pdf). [Here](https://www.youtube.com/watch?v=FxGo5hn8dTw) is the video link.
     * [How to Write a Good Paper for a Top International Journal](https://www.elsevier.com/__data/promis_misc/international%20publishing%20china.pdf).
-* I strongly suggest you:
-    * Use **Markdown** for informal presentations (e.g., daily notes, group meetings).
-    * Use **PowerPoint** or **Beamer (LaTeX)** for formal presentations (e.g., a thesis defense or a conference presentation).
+* I recommend that you:
+    * Use **Markdown** for keeping daily notes and documenting group meetings.  
+    * Use **PowerPoint** or **Beamer (LaTeX)** for formal presentations, such as a thesis defense or a conference presentation.
 
