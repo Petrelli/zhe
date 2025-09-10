@@ -15,7 +15,7 @@ Currently, I am an Associate Professor with the School of Communications and Inf
 ## What's New
 ---
 
-Students taking the China Communications re-examination, please visit this link to check the relevant requirements.
+Students taking the China Communications re-examination, please visit this [link](../download/ChinaCom/re-exam.pdf) to check the relevant requirements.
 
 ## For Prospective Students
 ---
