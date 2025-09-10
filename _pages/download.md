@@ -14,6 +14,7 @@ Slides of China Communications
 * [Chapter-6](../download/ChinaCom/chapter-6.pdf)
 * [Chapter-7](../download/ChinaCom/chapter-6.pdf)
 * [Final Project Report Requirements](../download/ChinaCom/Report.pdf)
+* [Re-examination  Requirements](../download/ChinaCom/re-exam.pdf)
 
 
 Slides of Computer Networks

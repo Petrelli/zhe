@@ -15,7 +15,7 @@ Currently, I am an Associate Professor with the School of Communications and Inf
 ## What's New
 ---
 
-Our paper "T-COMS: A Time-Slot-Aware and Cost-Effective Data Transfer Method for Geo-Distributed Data Centers" has been accepted by IEEE Transactions on Cloud Computing.
+Students taking the China Communications re-examination, please visit this link to check the relevant requirements.
 
 ## For Prospective Students
 ---
