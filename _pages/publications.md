@@ -10,6 +10,7 @@ permalink: /publications/
 ## Selected Journal Papers
 ---
 
+<div style="text-align: justify; text-justify: inter-word; line-height: 1.5;">
 Bita Fatemipour, Zhe Zhang, Marc St-Hilaire，"T-COMS: A Time-Slot-Aware and Cost-Effective Data Transfer Method for Geo-Distributed Data Centers," IEEE Transactions on Cloud Computing, 2025, Early Access.
 
 Zhe Zhang, Yili Jiang, Xin Wei, Mingkai Chen, Haiwei Dong, Shui Yu, "Generative-AI for XR Content Transmission in the Metaverse: Potential Approaches, Challenges, and a Generation-Driven Transmission Framework," IEEE Network, 2025, Early Access.
@@ -35,10 +36,12 @@ Zhe Zhang, Chung-Horng Lung, Marc St-Hilaire, Ioannis Lambadaris, "Smart Proacti
 Zhe Zhang, Chung-Horng Lung, Marc St-Hilaire, Ioannis Lambadaris, “An SDN-based Caching Decision Policy for Video Caching in Information-centric Networking,” IEEE Transactions on Multimedia, vol. 22, no. 4, pp. 1069-1083, April, 2020. 
 
 Zhe Zhang, Chung-Horng Lung, Ioannis Lambadaris, Marc St-Hilaire, “When 5G Meets ICN: An ICN-based caching approach for mobile video in 5G networks,” Elsevier Computer Communications, vol. 118, pp. 81-92, March, 2018.
+</div>
 
 ## Selected Conference Papers
 ---
 
+<div style ="text-align: justify; text-justify: inter-word; line-height: 1.5;">
 Chi Zhang, Zhe Zhang, Mingkai Chen, Anqi Tong, Chung-Horng Lung, and Joel J. P. C. Rodrigues, “A GAI-Based Haptic Transmission Architecture for Extending Headset Lifespan in Haptic-Enhanced XR,” Proceedings of the 2025 IEEE International Conference on Communications (ICC 2025), Montreal, QC, Canada, June, 2025.
 
 Zhe Zhang, Mingkai Chen, Jiehan Zhou, “A Lightweight Cache-Assisted Data Recovery Mechanism for Latency-Critical Data in IIoT,” 2023 International Conference on Wireless Communications and Signal Processing (WCSP 2023), Hangzhou, China, November, 2023.
@@ -48,4 +51,5 @@ Zhe Zhang, Chung-Horng Lung, Marc St-Hilaire, Ioannis Lambadaris, “Smart Cachi
 Zhe Zhang, Chung-Horng Lung, Ioannis Lambadaris, Marc St-Hilaire, “IoT Data Lifetime-based Cooperative Caching Scheme for ICN-IoT Networks,” Proceedings of the 2018 IEEE International Conference on Communications (ICC 2018), Kansas City, MO, USA, May, 2018.
 
 Zhe Zhang, Chung-Horng Lung, Ioannis Lambadaris, Marc St-Hilaire, Sankarshan Nagaraja Rao, “Router Position-based Cooperative Caching for Video-on-Demand in Information-Centric Networking,” Proceedings of the 2017 conference on 41st Annual IEEE Computer Software and Applications Conference (COMPSAC), Torino, Italy, July, 2017.
+</div>
 
