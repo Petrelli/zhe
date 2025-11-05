@@ -10,7 +10,7 @@ permalink: /publications/
 ## Selected Journal Papers
 ---
 
-<div style="text-align: justify; text-justify: inter-word; line-height: 1.5;">
+<div style="text-align: justify !important; text-justify: inter-word; line-height: 1.5;">
 Bita Fatemipour, Zhe Zhang, Marc St-Hilaire，"T-COMS: A Time-Slot-Aware and Cost-Effective Data Transfer Method for Geo-Distributed Data Centers," IEEE Transactions on Cloud Computing, 2025, Early Access.
 
 Zhe Zhang, Yili Jiang, Xin Wei, Mingkai Chen, Haiwei Dong, Shui Yu, "Generative-AI for XR Content Transmission in the Metaverse: Potential Approaches, Challenges, and a Generation-Driven Transmission Framework," IEEE Network, 2025, Early Access.
@@ -41,7 +41,7 @@ Zhe Zhang, Chung-Horng Lung, Ioannis Lambadaris, Marc St-Hilaire, “When 5G Mee
 ## Selected Conference Papers
 ---
 
-<div style ="text-align: justify; text-justify: inter-word; line-height: 1.5;">
+<div style="text-align: justify !important; text-justify: inter-word; line-height: 1.5;">
 Chi Zhang, Zhe Zhang, Mingkai Chen, Anqi Tong, Chung-Horng Lung, and Joel J. P. C. Rodrigues, “A GAI-Based Haptic Transmission Architecture for Extending Headset Lifespan in Haptic-Enhanced XR,” Proceedings of the 2025 IEEE International Conference on Communications (ICC 2025), Montreal, QC, Canada, June, 2025.
 
 Zhe Zhang, Mingkai Chen, Jiehan Zhou, “A Lightweight Cache-Assisted Data Recovery Mechanism for Latency-Critical Data in IIoT,” 2023 International Conference on Wireless Communications and Signal Processing (WCSP 2023), Hangzhou, China, November, 2023.

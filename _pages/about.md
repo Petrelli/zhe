@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify; text-justify: inter-word; line-height: 1.5;">
+<div style="text-align: justify !important; text-justify: inter-word; line-height: 1.5;">
 Currently, I am an Associate Professor with the School of Communications and Information Engineering, Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China. Before I joined NJUPT, I was a Research Engineer at Huawei Ottawa R&D Center, Ottawa, Canada. My research interests include multimedia networking, intelligent networks, in-network caching, DCN, and Metaverse.
 </div>
 
 ## What's New
 ---
 
-<div style="text-align: justify; text-justify: inter-word; line-height: 1.5;">
+<div style="text-align: justify !important; text-justify: inter-word; line-height: 1.5;">
 Students taking the China Communications re-examination, please visit this [link](../download/ChinaCom/re-exam.pdf) to check the relevant requirements.
 </div>
 
 ## For Prospective Students
 ---
 
-<div style="text-align: justify; text-justify: inter-word; line-height: 1.5;">
+<div style="text-align: justify !important; text-justify: inter-word; line-height: 1.5;">
 If you believe life is the sum of experiences, and there's no need to rush into a job just to earn money—allowing time for meaningful pursuits to enrich your life—then we likely share the same philosophy. It is always a pleasure to work with people who share the same philosophy. Additionally, if you are self-motivated and possess strong skills in mathematics, English, or programming (having two skills would be even better), we sincerely welcome you to join us. I can accept a maximum of 4 master’s students. 
 
 If you are interested in what I am doing, please send <a href="mailto:zhezhang@njupt.edu.cn">me</a> your CV and transcripts. For NJUPT students, I strongly encourage them to do their 4th year project with me.
