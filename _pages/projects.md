@@ -29,6 +29,7 @@ AI Rescue System for Highway Clearance Vehicles
 * 2025-2026
 
 Energy Peanut Course Reservation System (Wechat miniprogram)
+* Xi'an Huasheng Fitness Club
 * 2023-2025
 
 Demand-aware Reconfigure Datacenter Networks
