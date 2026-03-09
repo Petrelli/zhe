@@ -13,7 +13,7 @@ Currently, I am an Associate Professor with the School of Communications and Inf
 ## What's New
 ---
 
-Students taking the China Communications re-examination, please visit this [link](../download/ChinaCom/re-exam.pdf) to check the relevant requirements.
+Students enrolled in China Communications are requested to send me (zhezhang@njupt.edu.cn) their group information as soon as possible.
 
 ## For Prospective Students
 ---
