@@ -9,7 +9,7 @@ permalink: /teaching/
 
 ## China Communications
 ---
-* 2025 Spring
+* 2025，2026 Spring
 * Undergraduate (international students)
 * [Course slides can be found here.](download.md)
 
