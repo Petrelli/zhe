@@ -29,7 +29,7 @@ permalink: /teaching/
 
 ## Mobile Communication System
 ---
-* 2022 Spring
+* 2022 spring
 * Undergraduate
 
 ## Some Useful Links
