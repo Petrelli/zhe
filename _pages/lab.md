@@ -11,7 +11,7 @@ permalink: /lab/
 ---
 
 ## 🏛 About Us
-The **AIMNet Lab** conducts cutting-edge research in **Multimedia Networking**, **Intelligent Networks**, **Caching**, and the **Metaverse**. We aim to build intelligent and efficient systems for real-world multimedia delivery.
+The **AIMNet Lab** conducts cutting-edge research in **Multimedia Networking**, **Intelligent Networks**, **Caching**, and the **Metaverse**. We aim to build intelligent and efficient systems for real-world multimedia content delivery.
 
 
 ## 👩‍🎓 Current Students
