@@ -14,7 +14,7 @@ Slides of China Communications
 <!-- * [Chapter-6](../download/ChinaCom/chapter-6.pdf) -->
 <!-- * [Chapter-7](../download/ChinaCom/chapter-6.pdf) -->
 * [Guidelines for Presentations](./presentations.md)
-* [Presentation Order]({{site.baseurl}}/_pages/order/)
+* [Presentation Order]({{ site.baseurl }}/order/)
 
 
 Slides of Computer Networks
