@@ -13,7 +13,7 @@ Currently, I am an Associate Professor with the School of Communications and Inf
 ## What's New
 ---
 
-The presentation order for students enrolled in China Communications can be found [here]({{ site.baseurl }}/order/)
+The presentation order for students enrolled in China Communications can be found [here]({{ site.baseurl }}/order/).
 
 ## For Prospective Students
 ---
