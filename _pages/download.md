@@ -12,7 +12,7 @@ Slides of China Communications
 * [Chapter-4](../download/ChinaCom/chapter-4.pdf)
 * [Chapter-5](../download/ChinaCom/chapter-5.pdf)
 * [Chapter-6](../download/ChinaCom/chapter-6.pdf)
-<!-- * [Chapter-7](../download/ChinaCom/chapter-6.pdf) -->
+<!-- * [Chapter-7](../download/ChinaCom/chapter-7.pdf) -->
 * [Guidelines for Presentations](./presentations.md)
 * [Presentation Order]({{ site.baseurl }}/order/)
 
