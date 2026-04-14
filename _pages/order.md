@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "Presentation Order"
 permalink: /order/
 author_profile: true
