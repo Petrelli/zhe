@@ -7,7 +7,7 @@ author_profile: true
 
 ## Presentation Topic Guidelines
 
-For the presentation, each group should start from a **Chinese company, app, technology, or research development** related to communication. Then, you should explain how it connects to the concepts and topics discussed in this course.
+For the presentation, each group should start from a **Chinese company, app, technology, or research development** related to communication. Then, you should explain how it connects to the concepts and topics discussed in this course. **Each group is required to submit one printed copy of the presentation slides during the presentation session**
 
 Your presentation may focus on, for example:
 
@@ -17,3 +17,4 @@ Your presentation may focus on, for example:
 - A research trend or innovation in China related to communication technologies
 
 You should clearly explain which course concept(s) your topic is related to, such as **communication networks, cellular networks, IoT, satellite communications, or future communication technologies**.
+
