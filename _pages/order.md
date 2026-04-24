@@ -9,6 +9,18 @@ author_profile: true
 
 The presentation order for **China Communications** is as follows (in reverse order):
 
+### Group 10
+- Mirov Iskandar
+- Nozilov Abubakr
+
+### Group 9
+- Reuel Ellington Okyere
+- Jean Paul Wilfried Akobe
+- Artur Mustaev
+- Andrei Pylaev
+- Abylaikhankyzy Raziya
+- Akbar Oral
+
 ### Group 8
 - TAHMEED AHMED
 - ABIR HOSSAIN KHAN
@@ -75,4 +87,4 @@ The presentation order for **China Communications** is as follows (in reverse or
 - ANASTASIIA KHOLOMEVA
 - DAMELYA MURATOVA
 
-Please be well prepared and make sure your presentation file is ready before class.
+Please be well prepared and make sure your presentation slides are ready before class.
