@@ -87,4 +87,14 @@ The presentation order for **China Communications** is as follows (in reverse or
 - ANASTASIIA KHOLOMEVA
 - DAMELYA MURATOVA
 
+### Group 11
+- Chantelle Elizabeth Mutanhuki
+- Batma Mirlanova
+- Zuura Mirlanova
+- Kamola Abdurazakova
+- Dilkhumor Rakhmatova
+
+### Group 12
+- MOHAMED BENJARI
+
 Please be well prepared and make sure your presentation slides are ready before class.
