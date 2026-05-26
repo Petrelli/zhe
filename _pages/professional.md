@@ -5,6 +5,10 @@ permalink: /professional/
 author_profile: true
 ---
 
+Journal Editorships：
+======
+Associate Editor, ACM Transactions on Multimedia Computing, Communications, and Applications, 2026 — present
+
 Reviewer for Journal Manuscript Submissions: 
 ======
 * IEEE Journal on Selected Areas in Communications 
@@ -29,7 +33,7 @@ Reviewer for Conference Manuscript Submissions:
 * IEEE WCNC
 * IEEE CCNC
 
-TPC Member:
+Membership in Technical Program Committees:
 ======
 * IEEE ICC 2020-present
 * IEEE GLOBECOM 2020-present
