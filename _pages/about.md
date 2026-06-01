@@ -13,7 +13,7 @@ Currently, I am an Associate Professor with the School of Communications and Inf
 ## What's New
 ---
 
-The presentation order for students enrolled in China Communications can be found [here]({{ site.baseurl }}/order/).
+Congratulations to my graduate student Chi Zhang for successfully completing his master's thesis defense! Wishing him continued success in his future academic and professional endeavors.
 
 ## For Prospective Students
 ---
