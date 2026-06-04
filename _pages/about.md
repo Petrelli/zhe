@@ -13,7 +13,7 @@ Currently, I am an Associate Professor with the School of Communications and Inf
 ## What's New
 ---
 
-Congratulations to my graduate student Chi Zhang for successfully completing his master's thesis defense! Wishing him continued success in his future academic and professional endeavors.
+Congratulations to my graduate student Chi Zhang for successfully completing his master's thesis defense! Wishing him continued success in his future professional endeavors.
 
 ## For Prospective Students
 ---
