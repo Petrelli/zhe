@@ -6,6 +6,8 @@ permalink: /album/
 
 ## My Photo Album
 
+![Chongqing](../photos/chongqing.jpg)
+*HKU*
 
 ![Montreal.JPG](../photos/IMG_2422.jpg)
 *HKU*
