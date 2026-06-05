@@ -15,11 +15,15 @@ The **AIMNet Lab** conducts cutting-edge research in **Multimedia Networking**, 
 
 
 ## 👩‍🎓 Current Students
-- **Chi Zhang**, Master student (2023)  
 - **Yao Li**, Master student (2023)  
 - **Haowei Tang**, Master student (2024)  
 - **Tingrui Zhang**, Master student (2025)  
 - **Xuan Zhang**, Master student (2025)  
+
+---
+
+## 🧑‍🎓 Alumni (First or Current Employment)
+- **Chi Zhang**, M.Eng, 2026, China Communications Services Corporation Limited.  
 
 ---
 
