@@ -8,6 +8,11 @@ permalink: /projects/
 
 
 ## Research Grants
+Cross-Modal Prediction-Based Low-Latency Real-Time Haptic Transmission in Dynamic Network Environments
+ * National Natural Science Foundation of China (NSFC)
+ * 2027-2030
+
+
 Research on Key Technologies of Adaptive Edge Caching for Multi-modal Services in Dynamic Network Environments
  * National Natural Science Foundation of China (NSFC)
  * 2023-2025
