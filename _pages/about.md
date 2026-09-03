@@ -13,7 +13,7 @@ Currently, I am an Associate Professor with the School of Communications and Inf
 ## What's New
 ---
 
-Congratulations to my graduate student Chi Zhang for successfully completing his master's thesis defense! Wishing him continued success in his future professional endeavors.
+Our paper "Adaptive Routing Optimization with Cost and Deadline Awareness Using Hierarchical Deep Reinforcement Learning" has been accepted by IEEE TNSM.
 
 ## For Prospective Students
 ---
