@@ -12,8 +12,9 @@ Currently, I am an Associate Professor with the School of Communications and Inf
 
 ## What's New
 ---
-
-Our paper "Adaptive Routing Optimization with Cost and Deadline Awareness Using Hierarchical Deep Reinforcement Learning" has been accepted by IEEE TNSM.
+* Our paper "DIA: A Deep Reinforcement Learning-Based Interest-Aware ABR Scheme for Cloud Gaming" has been accepted by IEEE TMC.
+* Our paper "A Risk-Aware Adaptive Visual Sensing Approach for Energy-Efficient Sentry System in Electric Vehicles" has been accepted by IEEE Sensors Journal.
+* Our paper "Adaptive Routing Optimization with Cost and Deadline Awareness Using Hierarchical Deep Reinforcement Learning" has been accepted by IEEE TNSM.
 
 ## For Prospective Students
 ---
