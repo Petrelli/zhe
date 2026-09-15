@@ -9,7 +9,7 @@ permalink: /publications/
 
 ## Selected Journal Papers
 ---
-Zhe Zhang, Haiwei Dong, Marc St-Hilaire, Abdulmotaleb El Saddik, "A Deep Reinforcement Learning-Based Interest-Aware ABR Scheme for Cloud Gaming," IEEE Transactions on Mobile Computing, Early Access, 2026.
+Zhe Zhang, Haiwei Dong, Marc St-Hilaire, Abdulmotaleb El Saddik, "DIA: A Deep Reinforcement Learning-Based Interest-Aware ABR Scheme for Cloud Gaming," IEEE Transactions on Mobile Computing, Early Access, 2026.
 
 Haowei Tang, Zhe Zhang, Yishuai Chen, Xin Wei, "A Risk-Aware Adaptive Visual Sensing Approach for Energy-Efficient Sentry System in Electric Vehicles," Early Access, 2026.
 
