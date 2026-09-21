@@ -6,6 +6,9 @@ permalink: /album/
 
 ## My Photo Album
 
+![Datong](../photos/datong.jpg)
+*Datong*
+
 ![Chongqing](../photos/chongqing.jpg)
 *Chongqing*
 
