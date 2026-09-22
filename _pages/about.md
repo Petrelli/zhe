@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am an Associate Professor with the School of Communications and Information Engineering, Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China. Before I joined NJUPT, I was a Research Engineer at Huawei Ottawa R&D Center, Ottawa, Canada. My research interests include multimedia networking, AI for networking, in-network caching, networking for AI, and Metaverse.
+Currently, I am an Associate Professor with the School of Communications and Information Engineering, Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China. Before I joined NJUPT, I was a Research Engineer at Huawei Ottawa R&D Center, Ottawa, Canada. My research interests include Multimedia Networking, AI for Networking, Networking for AI, and Metaverse.
 
 ## What's New
 ---
