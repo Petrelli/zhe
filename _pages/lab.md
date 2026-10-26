@@ -24,12 +24,12 @@ The **AIMNet Lab** conducts cutting-edge research in **Multimedia Networking**, 
 ---
 
 ## 🧑‍🎓 Alumni (First or Current Employment)
-- **Chi Zhang**, M.Eng, 2026, China Communications Services Corporation Limited.  
+- **Chi Zhang**, M.Eng, 2026, China Communications Services Corporation Limited, Nanjing, Jiangsu, China.  
 
 ---
 
 ## 🧑 Students I Have Supervised (First or Current Employment)
-- **Yiting Zhang**, M.Sc, 2023, Northwestern University.  
+- **Yiting Zhang**, M.Sc, 2023, Northwestern University, Evanston, Illinois, USA.  
 
 ---
 
