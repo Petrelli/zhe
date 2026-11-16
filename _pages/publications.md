@@ -9,11 +9,11 @@ permalink: /publications/
 
 ## Selected Journal Papers
 ---
-Zhe Zhang, Haiwei Dong, Marc St-Hilaire, Abdulmotaleb El Saddik, "DIA: A Deep Reinforcement Learning-Based Interest-Aware ABR Scheme for Cloud Gaming," IEEE Transactions on Mobile Computing, Early Access, 2026.
+Zhe Zhang, Haiwei Dong, Marc St-Hilaire, Abdulmotaleb El Saddik, "DIA: A Deep Reinforcement Learning-Based Interest-Aware ABR Scheme for Cloud Gaming," IEEE Transactions on Mobile Computing, vol 25, no. 12, pp. 24308-24322, Dec. 2026.
 
-Haowei Tang, Zhe Zhang, Yishuai Chen, Xin Wei, "A Risk-Aware Adaptive Visual Sensing Approach for Energy-Efficient Sentry System in Electric Vehicles," IEEE Sensors Journal, Early Access, 2026.
+Haowei Tang, Zhe Zhang, Yishuai Chen, Xin Wei, "A Risk-Aware Adaptive Visual Sensing Approach for Energy-Efficient Sentry System in Electric Vehicles," IEEE Sensors Journal, vol. 26, no. 21, pp. 33669-33677, Nov. 2026.
 
-Bita Fatemipour, Zhe Zhang, Marc St-Hilaire, "Adaptive Routing Optimization with Cost and Deadline Awareness Using Hierarchical Deep Reinforcement Learning," IEEE Transactions on Network and Service Management, Early Access, 2026.
+Bita Fatemipour, Zhe Zhang, Marc St-Hilaire, "Adaptive Routing Optimization with Cost and Deadline Awareness Using Hierarchical Deep Reinforcement Learning," IEEE Transactions on Network and Service Management, vol. 23, pp. 7923-7937, 2026.
 
 Zhe Zhang, Yili Jiang, Xin Wei, Mingkai Chen, Haiwei Dong, Shui Yu, "Generative-AI for XR Content Transmission in the Metaverse: Potential Approaches, Challenges, and a Generation-Driven Transmission Framework," IEEE Network, vol 40, no. 1, pp. 183-191, January, 2026.
 
